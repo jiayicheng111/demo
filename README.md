@@ -86,5 +86,3 @@ create a README.md file in the gitlab repo and add the technical procedure above
 
 push all files/procedures in your local gitlab repo to remote github repo (e.g. https://github.com/your_github_id/go-web-hello-world)
 
-if this is for an interview session, please send it to yijing.Zheng@ericsson.com.
-
