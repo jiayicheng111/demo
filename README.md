@@ -84,5 +84,5 @@ create a README.md file in the gitlab repo and add the technical procedure above
 
 ### Task 9: publish your work
 
-push all files/procedures in your local gitlab repo to remote github repo (e.g. https://github.com/your_github_id/go-web-hello-world)
+push all files/procedures in your local gitlab repo to remote github repo https://github.com/jiayicheng111/demo
 
